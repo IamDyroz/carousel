@@ -4,4 +4,4 @@
 
 If you want to know the step by step process to build this carousel project, watch this video
 
-[**React Carousel Image Slider**](https://youtu.be/FbbxE7M03Ao)
+[**React Carousel Image Slider**](https://www.youtube.com/watch?v=F4mI4Q9WklA&t=15s)
